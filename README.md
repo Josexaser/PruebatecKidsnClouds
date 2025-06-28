@@ -16,15 +16,15 @@ Esta app muestra la agenda diaria de los niños, con eventos como alimentación,
 ## Cómo instalar y probar
 
 1. Clonar el repositorio:
-git clone https://github.com/tu_usuario/Agenda_escolar.git
+git clone https://github.com/Josexaser/PruebatecKidsnClouds.git
 
-2. Moverse al proyecto:
+1. Moverse al proyecto:
 cd Agenda_escolar/agenda_diaria
 
-3. Instalar dependencias:
+1. Instalar dependencias:
 flutter pub get
 
-4. Ejecutar la app:
+1. Ejecutar la app:
 flutter run
 
 Para ejecutar los tests automáticos:
