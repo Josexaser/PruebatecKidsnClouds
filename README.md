@@ -19,7 +19,7 @@ Esta app muestra la agenda diaria de los niños, con eventos como alimentación,
 git clone https://github.com/Josexaser/PruebatecKidsnClouds.git
 
 1. Moverse al proyecto:
-cd Agenda_escolar/agenda_diaria
+cd PruebatecKidsnClouds-master/agenda_diaria
 
 1. Instalar dependencias:
 flutter pub get
@@ -29,6 +29,7 @@ flutter run
 
 Para ejecutar los tests automáticos:
 flutter test
+
 
 ## Descripción del enfoque
 
