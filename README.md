@@ -2,6 +2,25 @@
 
 Bienvenido/a a Agenda Diaria, una app hecha en Flutter para que padres y madres puedan ver de forma sencilla lo que hacen sus hijos cada día en la escuela.
 
+## Capturas de pantalla
+
+<p align="center">
+  <img src="assets/screenshots/Pantalla_Bienvenida.jpeg" alt="Pantalla de Bienvenida" width="300" title="Pantalla de Bienvenida">
+  <img src="assets/screenshots/Pantalla_Principal.jpeg" alt="Pantalla Principal" width="300" title="Pantalla Principal">
+</p>
+
+<p align="center">
+  <img src="assets/screenshots/Chat_bot.jpeg" alt="Chat simulado" width="300" title="Chat simulado">
+</p>
+
+## Demo en vídeo
+
+<p align="center">
+  <video src="assets/screenshots/Screenvideo.mp4" controls width="600" title="Demo de la app">
+    Tu navegador no soporta la etiqueta <code>video</code>.
+  </video>
+</p>
+
 ## Descripción
 
 Esta app muestra la agenda diaria de los niños, con eventos como alimentación, siestas, actividades y más. Incluye:
