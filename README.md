@@ -5,7 +5,10 @@ Bienvenido/a a Agenda Diaria, una app hecha en Flutter para que padres y madres 
 ## Capturas de pantalla
 
 <p align="center">
-  <img src="assets/screenshots/Pantalla_Bienvenida.jpeg" alt="Pantalla de Bienvenida" width="300" title="Pantalla de Bienvenida">
+  <img src="assets/screenshots/pantalla_bienvenida.jpeg" alt="Pantalla de Bienvenida" width="300" title="Pantalla de Bienvenida">
+  </p>
+
+  <p align="center">
   <img src="assets/screenshots/Pantalla_Principal.jpeg" alt="Pantalla Principal" width="300" title="Pantalla Principal">
 </p>
 
