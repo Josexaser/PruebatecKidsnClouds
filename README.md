@@ -5,7 +5,7 @@ Bienvenido/a a Agenda Diaria, una app hecha en Flutter para que padres y madres 
 ## Capturas de pantalla
 
 <p align="center">
-  <img src="assets/screenshots/pantalla_bienvenida.jpeg" alt="Pantalla de Bienvenida" width="300" title="Pantalla de Bienvenida">
+  <img src="assets\screenshots\pantalla_bienvendia.jpeg" alt="Pantalla de Bienvenida" width="300" title="Pantalla de Bienvenida">
   </p>
 
   <p align="center">
@@ -16,13 +16,16 @@ Bienvenido/a a Agenda Diaria, una app hecha en Flutter para que padres y madres 
   <img src="assets/screenshots/Chat_bot.jpeg" alt="Chat simulado" width="300" title="Chat simulado">
 </p>
 
-## Demo en vídeo
+## Demo Animado
 
 <p align="center">
-  <video src="assets/screenshots/Screenvideo.mp4" controls width="600" title="Demo de la app">
-    Tu navegador no soporta la etiqueta <code>video</code>.
-  </video>
+  <img src="assets/screenshots/Screenshotmain.gif" alt="Animación de la app" width="400" tittle="Gif de Main Screen" >
 </p>
+
+## Demo en vídeo
+
+Puedes descargar/ver la demo aquí:  
+[▶️ Demo de Agenda Diaria (MP4)](assets/images/screenshots/demo_app.mp4)
 
 ## Descripción
 
