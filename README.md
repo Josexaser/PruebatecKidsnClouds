@@ -16,11 +16,7 @@ Bienvenido/a a Agenda Diaria, una app hecha en Flutter para que padres y madres 
 ## Demo GIF
 
 <p align="center">
-  <img src="assets/screenshots/Screenshotwelcom.gif" alt="Animación de la app" width="400" tittle="Gif de Welcome Screen" >
-</p>
-
-
-<p align="center">
+  <img src="assets\screenshots\Screenshotwelcm.gif" alt="Animación de la app" width="400" tittle="Gif de Welcome Screen" >
   <img src="assets/screenshots/Screenshotmain.gif" alt="Animación de la app" width="400" tittle="Gif de Main Screen" >
 </p>
 
